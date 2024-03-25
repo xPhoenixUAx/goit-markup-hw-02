@@ -57,6 +57,9 @@ ul{
     text-transform: capitalize;
     color: #2e2f42;
 }
+.team-section-list{
+    color: #ffffff;
+}
 .portfolio-title{
     text-align: center;
     font-size: 36px;
